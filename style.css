@@ -56,5 +56,3 @@ footer{border-top:1px solid var(--line);display:flex;gap:24px;align-items:center
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .current-project + .current-project{border-top:0}
-
-.current-project .member-count{font-size:12px;color:var(--blue);margin-top:6px}
